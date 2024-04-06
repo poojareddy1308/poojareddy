@@ -1,0 +1,39 @@
+1. What is the correct way to declare an array of integers in Java?
+   a) int[] numbers = new int[];
+   b) int[] numbers = new int[10];
+   c) int numbers[10];
+   d) int numbers[];
+
+Ans: option b
+
+2. How do you access the first element of an array named "arr" in Java?
+   a) arr[0];
+   b) arr.first;
+   c) arr(1);
+   d) arr.get(0);
+
+Ans: option a arr[0]
+
+3. Which of the following methods is used to find the length of an array in Java?
+   a) length();
+   b) size();
+   c) count();
+   d) len();
+
+Ans:a
+
+4. What will be the output of accessing the element at index 3 in an array with elements {1, 2, 3, 4, 5}?
+   a) 1
+   b) 2
+   c) 3
+   d) 4
+
+Ans: option d
+
+5. Which of the following statements is true about arrays in Java?
+   a) Arrays can contain elements of different data types.
+   b) Arrays in Java are always fixed in size.
+   c) Arrays are a primitive data type in Java.
+   d) Arrays in Java are always initialized with default values.
+
+Ans: option d
